@@ -4,10 +4,10 @@
     <h2><%: Title %>.</h2>
     <h3>Tye's contact page</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        333 The Way<br />
+        High Level, AB 98052-6399<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        666.666.1111
     </address>
 
     <address>
